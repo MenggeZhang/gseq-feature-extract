@@ -2,7 +2,7 @@
 Extract features from genomic sequences with four different feature definition.
 
 ## Requirements
-This project is written in C++, please compile the project by running 
+This project is written in C++, please install a `gcc` compiler and compile the project by running 
 
 ```
 make
